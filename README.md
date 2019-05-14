@@ -1,4 +1,4 @@
-# Small .NET Standard solution with DDD Building Blocks covered with Unit Tests [![Build status](https://ci.appveyor.com/api/projects/status/ujilt0luhnvpm4to?svg=true)](https://ci.appveyor.com/project/ivanpaulovich/ddd-tdd-rich-domain) [![codecov](https://codecov.io/gh/ivanpaulovich/ddd-tdd-rich-domain/branch/master/graph/badge.svg)](https://codecov.io/gh/ivanpaulovich/ddd-tdd-rich-domain)
+# Small .NET Standard solution with DDD Building Blocks covered with Unit Tests
 
 We designed the Finance Domain using Aggregate Roots, Entities and Value Objects and we covered the uses cases with Unit Tests, run them in your first time here. The Domain and Unit Tests projects were implemented with .NET, the classes are as closed as possible.
 
@@ -7,8 +7,8 @@ We designed the Finance Domain using Aggregate Roots, Entities and Value Objects
 Clone this repository to your machine, compile and test it:
 
 ```sh
-git clone https://github.com/ivanpaulovich/ddd-tdd-rich-domain.git
-cd ddd-tdd-rich-domain
+git clone https://github.com/whyseco/tdd-kata.git
+cd tdd-kata
 ./build.sh
 ```
 
@@ -26,7 +26,7 @@ This project was designed do cover the following use cases and requirements:
 
 ## :memo: The Domain Model
 
-![Domain Model](https://raw.githubusercontent.com/ivanpaulovich/ddd-tdd-rich-domain/master/docs/ddd-tdd-rich-domain-model.png)
+![Domain Model](https://raw.githubusercontent.com/whyseco/tdd-kata/kata-initial/docs/ddd-tdd-rich-domain-model.png)
 
 ## :computer: Tech stuff
 
